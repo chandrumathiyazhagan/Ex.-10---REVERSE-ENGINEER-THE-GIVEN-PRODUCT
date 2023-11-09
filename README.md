@@ -33,10 +33,11 @@
 ## Input:
 
 ### Output:
-
-
-### Name:
-### Register Number:
+```
+Name:M.CHANDRU
+Register Number:212222230026
+```
+![image](https://github.com/chandrumathiyazhagan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393023/9ffb5e4c-5489-49a2-86fd-c06532246f8b)
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
